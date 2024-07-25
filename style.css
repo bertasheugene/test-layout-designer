@@ -1,1 +1,8 @@
 /* ... */
+
+.grid {
+  background-color: red;
+  margin-top: 1rem;
+  width: 100px;
+  margin-left: 1rem;
+}
