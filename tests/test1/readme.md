@@ -1,7 +1,7 @@
-### fsdfd
+### Test 2
 
-![ ](/public/2024-07-25_22-05-58.png)
+Оформить готовый компонент **form-select-chosen** - привести к виду:
+![ ](/assets/images/2024-07-26_10-21-24.png)
 
-```html
-<div>testfff</div>
-```
+Дополнительно оформить валидацию - сделав обводку - red color:
+**.form-select-chosen\_\_input.error-class**
